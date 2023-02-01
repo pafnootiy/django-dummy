@@ -1,3 +1,6 @@
+[ссыль на ютуб](https://www.youtube.com/watch?v=D-3xTYR1vBc)
+
+
 # Dummy hello world Django app
 
 # Webapp deploy to www.pythonanywhere.com
